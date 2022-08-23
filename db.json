@@ -1,0 +1,28 @@
+{
+  "crypto": [
+    {
+      "id": "sol",
+      "image": "https://assets.coingecko.com/coins/images/4128/large/solana.png?1640133422",
+      "name": "Solana",
+      "symbol": "sol",
+      "current_price": 34.68,
+      "price_change_percentage_24h": -5.29829
+    },
+    {
+      "id": "btc",
+      "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "current_price": 21219,
+      "price_change_percentage_24h": -0.12727
+    },
+    {
+      "id": "usdt",
+      "image": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png?1598003707",
+      "name": "Tether",
+      "symbol": "usdt",
+      "current_price": 1.001,
+      "price_change_percentage_24h": 0.04317
+    }
+  ]
+}
